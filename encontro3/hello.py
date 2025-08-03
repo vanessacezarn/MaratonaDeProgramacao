@@ -1,0 +1,5 @@
+print("Ola mundo")
+print("Hello world")
+print("Bonjour le monde")
+print("Hallo welt")
+print("Hola mundo")
