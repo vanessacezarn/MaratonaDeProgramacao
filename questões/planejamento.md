@@ -1,5 +1,5 @@
 # Questões com Maior Percentual de Acertos
-Lista com as questões com o maior percentual de acertos nos últimos 5 anos da primeira fase da maratona Maratona de Programação SBC 
+Lista das questões com o maior percentual de acertos nos últimos 5 anos da primeira fase da maratona Maratona de Programação SBC 
 
 ## 2024
 - [ ] A  - Atenção à Reunião
