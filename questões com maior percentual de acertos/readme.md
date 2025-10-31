@@ -8,8 +8,8 @@ Lista das questões com o maior percentual de acertos nos últimos 5 anos da pri
 - [ ] L - Lexicograficamente Máximo
 
 ## 2023
-- [ ] A - Altura Mínima
-- [ ] F - Férias Cansativas
+- [x] A - Altura Mínima
+- [x] F - Férias Cansativas
 - [ ] L - Lexicograficamente Agradável
 
 ## 2022
